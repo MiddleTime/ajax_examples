@@ -1,3 +1,5 @@
+//что такое ajax 
+//Использование синхронных XHR-запросов
 for (var i = 0; i < 100; i++) {
 	var request = new XMLHttpRequest();
 	request.open('GET', 'data.txt', false);

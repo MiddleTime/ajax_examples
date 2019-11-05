@@ -1,3 +1,5 @@
+//04_04-Стилизация приложения при помощи CSS
+
 $('#search').keyup(function() {
 	var searchField = $('#search').val();
 	var myExp = new RegExp(searchField, "i");

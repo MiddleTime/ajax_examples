@@ -1,3 +1,6 @@
+//03_01-Понимание и установка jQuery
+
+
 var mybutton = document.getElementById('loadbutton');
 mybutton.onclick = function() {
 	var request;

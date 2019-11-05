@@ -1,3 +1,5 @@
+//Обновление DOM с помощью getElementById
+
 var request;
 if (window.XMLHttpRequest) {
 	request = new XMLHttpRequest();

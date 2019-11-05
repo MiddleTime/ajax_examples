@@ -1,3 +1,5 @@
+//02_04-Просмотр файлов JSON
+
 var request;
 if (window.XMLHttpRequest) {
 	request = new XMLHttpRequest();

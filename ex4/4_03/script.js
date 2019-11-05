@@ -1,3 +1,5 @@
+//04_03-Поиск данных JSON
+
 $('#search').keyup(function() {
 	var searchField = $('#search').val();
 	var myExp = new RegExp(searchField, "i");

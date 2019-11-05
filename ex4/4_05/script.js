@@ -1,3 +1,5 @@
+//04_05-Добавление анимаций CSS3
+
 $('#search').keyup(function() {
 	var searchField = $('#search').val();
 	var myExp = new RegExp(searchField, "i");

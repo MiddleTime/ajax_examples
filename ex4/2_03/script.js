@@ -1,3 +1,4 @@
+//02_03-Парсинг XML с помощью AJAX
 var request;
 if (window.XMLHttpRequest) {
 	request = new XMLHttpRequest();

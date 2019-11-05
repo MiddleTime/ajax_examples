@@ -1,3 +1,5 @@
+//Изменение элементов с помощью getElementsByTagName
+
 var request;
 if (window.XMLHttpRequest) {
 	request = new XMLHttpRequest();

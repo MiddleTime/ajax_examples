@@ -1,3 +1,4 @@
+//Асинхронные вызовы
 var request = new XMLHttpRequest();
 request.open('GET', 'data.txt');
 request.onreadystatechange = function() {

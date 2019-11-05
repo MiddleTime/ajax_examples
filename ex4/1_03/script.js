@@ -1,3 +1,4 @@
+//Совместимость со старыми версиями
 var request;
 if (window.XMLHttpRequest) {
 	request = new XMLHttpRequest();

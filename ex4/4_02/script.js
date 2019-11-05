@@ -1,3 +1,5 @@
+//04_02-Отправка данных JSON на страницу
+
 $.getJSON('data.json', function(data) {
 	var output = '<ul class="searchresults">';
 	$.each(data, function(key, val) {
